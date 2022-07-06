@@ -1,0 +1,12 @@
+Origin: Liu Woods's Jailbreak Stuff
+Label: Liu Woods's Jailbreak Stuff
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Things I develop in my free time + other open source tweaks
+
+SHA256:
+ 0eb00fd014d055e56ca0bd63043809fe306556ad67406f0db7b86af053ef9d7d 661 Packages.bz2
+ dc47935f69c8e6c5d6f5ef2afba2f897ca21ec80c62089a59bab93b47691b425 656 Packages.xz
